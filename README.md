@@ -78,3 +78,9 @@
 ### 👉 [Github Link] (https://github.com/abhishek7329sharma/Age-Calculator)
 
 ### 👉 [Live Link] (https://timely-dolphin-e65dc5.netlify.app)
+
+
+# 25 Questions based on the Arrays
+
+This project contains all 35 questions based on array
+### 👉 [Github Link] -  (https://github.com/abhishek7329sharma/javascriptPracticeQuestions-35)
